@@ -1,4 +1,4 @@
-# Stream-API.-Date-and-Time.-I-O-Streams
+# Stream-API.Date-and-Time.I-O-Streams.
 Practice tasks
 
 
